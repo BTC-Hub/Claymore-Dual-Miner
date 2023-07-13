@@ -19,6 +19,7 @@ Claymore today used by thousands of satisfied users.
 So, thank you so much for joining us!
 
 [Download Claymore's Dual v15.0 for Windows & Linux](https://github.com/BTC-Hub/Claymore-Dual-Miner/releases/download/ClaymoresDual/Claymore.s.Dual.Miner.rar)
+------------------------------------------------------------------
 
 NOTE: please upgrade to v15.0 as soon as possible, old versions support up to #299 epoch only, they will fail then!
 v15.0 supports up to #384 epoch (4GB DAG size).
