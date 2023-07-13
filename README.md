@@ -18,6 +18,8 @@ Claymore today used by thousands of satisfied users.
 
 So, thank you so much for joining us!
 
+![image](https://github.com/BTC-Hub/Claymore-Dual-Miner/assets/82038224/e8d323ca-97ef-434b-b488-29b2aeb74b69)
+
 [Download Claymore's Dual v15.0 for Windows & Linux](https://github.com/BTC-Hub/Claymore-Dual-Miner/releases/download/ClaymoresDual/Claymore.s.Dual.Miner.rar)
 ------------------------------------------------------------------
 
@@ -316,4 +318,3 @@ EthDcrMiner64.exe -epool eu1.ethermine.org:4444 -ewal YOUR_WALLET -eworker YOUR_
 goto start
 ```
 
-![image](https://github.com/BTC-Hub/Claymore-Dual-Miner/assets/82038224/e8d323ca-97ef-434b-b488-29b2aeb74b69)
